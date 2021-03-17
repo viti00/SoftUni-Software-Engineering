@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hUkEK1vEjoOPE2Vajcu1jore9pYHe7YD2gQYmwi3mQ74Klcnv2F4MeZTVJHnK3d96jO+EzsisAQ9PiyAe6PrJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Charov PC\\Desktop\\CSharp Advanced\\SetsAndDictionariesAdvanced-Lab\\04.CitiesByContinentAndCountry\\04.CitiesByContinentAndCountry.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

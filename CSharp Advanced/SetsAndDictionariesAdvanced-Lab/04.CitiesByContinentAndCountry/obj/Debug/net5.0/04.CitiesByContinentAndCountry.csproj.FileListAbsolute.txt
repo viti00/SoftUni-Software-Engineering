@@ -1,0 +1,15 @@
+C:\Users\Charov PC\Desktop\CSharp Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\bin\Debug\net5.0\04.CitiesByContinentAndCountry.exe
+C:\Users\Charov PC\Desktop\CSharp Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\bin\Debug\net5.0\04.CitiesByContinentAndCountry.deps.json
+C:\Users\Charov PC\Desktop\CSharp Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\bin\Debug\net5.0\04.CitiesByContinentAndCountry.runtimeconfig.json
+C:\Users\Charov PC\Desktop\CSharp Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\bin\Debug\net5.0\04.CitiesByContinentAndCountry.runtimeconfig.dev.json
+C:\Users\Charov PC\Desktop\CSharp Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\bin\Debug\net5.0\04.CitiesByContinentAndCountry.dll
+C:\Users\Charov PC\Desktop\CSharp Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\bin\Debug\net5.0\ref\04.CitiesByContinentAndCountry.dll
+C:\Users\Charov PC\Desktop\CSharp Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\bin\Debug\net5.0\04.CitiesByContinentAndCountry.pdb
+C:\Users\Charov PC\Desktop\CSharp Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\obj\Debug\net5.0\04.CitiesByContinentAndCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charov PC\Desktop\CSharp Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\obj\Debug\net5.0\04.CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+C:\Users\Charov PC\Desktop\CSharp Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\obj\Debug\net5.0\04.CitiesByContinentAndCountry.AssemblyInfo.cs
+C:\Users\Charov PC\Desktop\CSharp Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\obj\Debug\net5.0\04.CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+C:\Users\Charov PC\Desktop\CSharp Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\obj\Debug\net5.0\04.CitiesByContinentAndCountry.dll
+C:\Users\Charov PC\Desktop\CSharp Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\obj\Debug\net5.0\ref\04.CitiesByContinentAndCountry.dll
+C:\Users\Charov PC\Desktop\CSharp Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\obj\Debug\net5.0\04.CitiesByContinentAndCountry.pdb
+C:\Users\Charov PC\Desktop\CSharp Advanced\SetsAndDictionariesAdvanced-Lab\04.CitiesByContinentAndCountry\obj\Debug\net5.0\04.CitiesByContinentAndCountry.genruntimeconfig.cache
