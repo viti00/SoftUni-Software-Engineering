@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7zsXJ3TVIQDXUv/z82ZyP49tcOvIJQdbYd3NGKQkcdLk2gKBIO27jNH6fd8b6WV2/EAIZxzpLmvKk6ZBEKSzSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Charov PC\\Desktop\\CSharp Advanced\\SetsAndDictionariesAdvanced-Exercise\\07.TheVLogger\\07.TheVLogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
