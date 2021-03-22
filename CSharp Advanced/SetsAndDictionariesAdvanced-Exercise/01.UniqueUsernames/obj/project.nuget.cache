@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zh4By6U9ut3piyE6tdK3eBEYSEyNZTWMT/luF4YzHyJLUz7ojQNO8G8vfrDPS2aGl5U5jUJgNHK3pFwTf15U9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Charov PC\\Desktop\\CSharp Advanced\\SetsAndDictionariesAdvanced-Exercise\\01.UniqueUsernames\\01.UniqueUsernames.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
