@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tdSJ8nbKy9+7Yxvj4EVGA1sJ5cKD5s9OwWtsPdwiNfVqdRtzbARRv1Aqy8ujPy5OJw4Ii4vMSeuw+mu1VYlMig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Charov PC\\Desktop\\CSharp Advanced\\SetsAndDictionariesAdvanced-Exercise\\03.PeriodicTable\\03.PeriodicTable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
