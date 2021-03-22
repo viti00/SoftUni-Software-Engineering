@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ADmnnNfTZcYx8GiTGBJsAnobN9qfSSYOOz69N8joxQ57dRME95MjF1DT67M/WYFFbC0DXuO260iB0raDkMSaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Charov PC\\Desktop\\CSharp Advanced\\SetsAndDictionariesAdvanced-Exercise\\02.SetsOfElements\\02.SetsOfElements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
