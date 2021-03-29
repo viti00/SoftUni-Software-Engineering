@@ -1,0 +1,12 @@
+C:\Users\Charov PC\Desktop\CSharp Advanced\FunctionalProgramming-Lab\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.exe
+C:\Users\Charov PC\Desktop\CSharp Advanced\FunctionalProgramming-Lab\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.deps.json
+C:\Users\Charov PC\Desktop\CSharp Advanced\FunctionalProgramming-Lab\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.runtimeconfig.json
+C:\Users\Charov PC\Desktop\CSharp Advanced\FunctionalProgramming-Lab\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.runtimeconfig.dev.json
+C:\Users\Charov PC\Desktop\CSharp Advanced\FunctionalProgramming-Lab\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.dll
+C:\Users\Charov PC\Desktop\CSharp Advanced\FunctionalProgramming-Lab\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.pdb
+C:\Users\Charov PC\Desktop\CSharp Advanced\FunctionalProgramming-Lab\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.AssemblyInfoInputs.cache
+C:\Users\Charov PC\Desktop\CSharp Advanced\FunctionalProgramming-Lab\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.AssemblyInfo.cs
+C:\Users\Charov PC\Desktop\CSharp Advanced\FunctionalProgramming-Lab\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.csproj.CoreCompileInputs.cache
+C:\Users\Charov PC\Desktop\CSharp Advanced\FunctionalProgramming-Lab\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.dll
+C:\Users\Charov PC\Desktop\CSharp Advanced\FunctionalProgramming-Lab\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.pdb
+C:\Users\Charov PC\Desktop\CSharp Advanced\FunctionalProgramming-Lab\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.genruntimeconfig.cache
