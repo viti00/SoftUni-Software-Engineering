@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2WNhHP5Gq3BahH98XOZ/ehJhMiajYQUH+GQQVmHlLHiD7B3iJ1YnbdHR3J2l3bUVnXtTrWbkXQqyXeW8eP+9Jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Charov PC\\Desktop\\CSharp Advanced\\FunctionalProgramming-Lab\\03.CountUppercaseWords\\03.CountUppercaseWords.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
