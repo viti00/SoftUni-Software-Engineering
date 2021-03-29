@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aMKOT0NveHkFCiPB5J+/Zd4xaLx13/G8UkymU0fk/JCp+ldj6p0GK6BZPZBzX1yBcuIsWAJ/CvI8b6KKgRjG8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Charov PC\\Desktop\\CSharp Advanced\\FunctionalProgramming-Lab\\05.FilterByAge\\05.FilterByAge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
