@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nzby7XGkzKA1vqogLuzclczVfq9A42oGAtGnCTj9/8l5icE4Pso5Cm3Tgr53AoS75Buta2sU7Sc9KFhLppzWRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Charov PC\\Desktop\\CSharp Advanced\\FunctionalProgramming-Exercise\\07.PredicateForNames\\07.PredicateForNames.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
