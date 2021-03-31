@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AXtXPsqDSrzWCgaBkDkRsJz6R4H8kkLxcl4kkJx6S1XK5P7EiGmy/y8fqPDv36k0qCs2fwqv+u+iU3acGB+3AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Charov PC\\Desktop\\CSharp Advanced\\FunctionalProgramming-Exercise\\05.AppliedArithmetics\\05.AppliedArithmetics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
