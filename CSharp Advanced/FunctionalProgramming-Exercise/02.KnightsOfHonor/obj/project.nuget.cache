@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oDuSX3UIb1lBYax20GvWbZYwh3FmYO3xNK4XhS2XPqmtbCEWtT0Y3ZNNYOvali4by1Hih20tsLvySOqwuECtFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Charov PC\\Desktop\\CSharp Advanced\\FunctionalProgramming-Exercise\\02.KnightsOfHonor\\02.KnightsOfHonor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
