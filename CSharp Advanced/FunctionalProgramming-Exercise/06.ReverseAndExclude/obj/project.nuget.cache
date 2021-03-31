@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "X9NTM+oxcL2IUqdL3UwY68oFqZ/GYZOeX5jO6xjudGtLztAJNsbt1ez128jBp6/GDCUsdzWIeAwU6nLsBC/AKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Charov PC\\Desktop\\CSharp Advanced\\FunctionalProgramming-Exercise\\06.ReverseAndExclude\\06.ReverseAndExclude.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
