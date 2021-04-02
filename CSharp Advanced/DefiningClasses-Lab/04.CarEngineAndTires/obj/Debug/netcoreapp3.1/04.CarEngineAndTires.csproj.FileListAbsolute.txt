@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\04.CarEngineAndTires\bin\Debug\netcoreapp3.1\04.CarEngineAndTires.exe
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\04.CarEngineAndTires\bin\Debug\netcoreapp3.1\04.CarEngineAndTires.deps.json
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\04.CarEngineAndTires\bin\Debug\netcoreapp3.1\04.CarEngineAndTires.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\04.CarEngineAndTires\bin\Debug\netcoreapp3.1\04.CarEngineAndTires.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\04.CarEngineAndTires\bin\Debug\netcoreapp3.1\04.CarEngineAndTires.dll
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\04.CarEngineAndTires\bin\Debug\netcoreapp3.1\04.CarEngineAndTires.pdb
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\04.CarEngineAndTires\obj\Debug\netcoreapp3.1\04.CarEngineAndTires.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\04.CarEngineAndTires\obj\Debug\netcoreapp3.1\04.CarEngineAndTires.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\04.CarEngineAndTires\obj\Debug\netcoreapp3.1\04.CarEngineAndTires.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\04.CarEngineAndTires\obj\Debug\netcoreapp3.1\04.CarEngineAndTires.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\04.CarEngineAndTires\obj\Debug\netcoreapp3.1\04.CarEngineAndTires.dll
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\04.CarEngineAndTires\obj\Debug\netcoreapp3.1\04.CarEngineAndTires.pdb
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\04.CarEngineAndTires\obj\Debug\netcoreapp3.1\04.CarEngineAndTires.genruntimeconfig.cache
