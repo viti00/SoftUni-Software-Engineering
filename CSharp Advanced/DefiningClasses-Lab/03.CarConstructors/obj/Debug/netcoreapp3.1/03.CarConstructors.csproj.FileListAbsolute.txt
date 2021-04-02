@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\03.CarConstructors\bin\Debug\netcoreapp3.1\03.CarConstructors.exe
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\03.CarConstructors\bin\Debug\netcoreapp3.1\03.CarConstructors.deps.json
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\03.CarConstructors\bin\Debug\netcoreapp3.1\03.CarConstructors.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\03.CarConstructors\bin\Debug\netcoreapp3.1\03.CarConstructors.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\03.CarConstructors\bin\Debug\netcoreapp3.1\03.CarConstructors.dll
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\03.CarConstructors\bin\Debug\netcoreapp3.1\03.CarConstructors.pdb
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\03.CarConstructors\obj\Debug\netcoreapp3.1\03.CarConstructors.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\03.CarConstructors\obj\Debug\netcoreapp3.1\03.CarConstructors.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\03.CarConstructors\obj\Debug\netcoreapp3.1\03.CarConstructors.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\03.CarConstructors\obj\Debug\netcoreapp3.1\03.CarConstructors.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\03.CarConstructors\obj\Debug\netcoreapp3.1\03.CarConstructors.dll
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\03.CarConstructors\obj\Debug\netcoreapp3.1\03.CarConstructors.pdb
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Lab\03.CarConstructors\obj\Debug\netcoreapp3.1\03.CarConstructors.genruntimeconfig.cache
