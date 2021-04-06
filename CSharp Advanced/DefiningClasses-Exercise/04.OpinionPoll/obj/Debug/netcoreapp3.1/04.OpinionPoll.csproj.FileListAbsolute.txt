@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.exe
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.deps.json
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.dll
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Exercise\04.OpinionPoll\bin\Debug\netcoreapp3.1\04.OpinionPoll.pdb
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.dll
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.pdb
+D:\C# coding\C#Advanced\Advanced\DefiningClasses-Exercise\04.OpinionPoll\obj\Debug\netcoreapp3.1\04.OpinionPoll.genruntimeconfig.cache
