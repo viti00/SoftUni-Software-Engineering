@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\Generics-Lab\02.ArrayCreator\bin\Debug\netcoreapp3.1\02.ArrayCreator.exe
+D:\C# coding\C#Advanced\Advanced\Generics-Lab\02.ArrayCreator\bin\Debug\netcoreapp3.1\02.ArrayCreator.deps.json
+D:\C# coding\C#Advanced\Advanced\Generics-Lab\02.ArrayCreator\bin\Debug\netcoreapp3.1\02.ArrayCreator.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\Generics-Lab\02.ArrayCreator\bin\Debug\netcoreapp3.1\02.ArrayCreator.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\Generics-Lab\02.ArrayCreator\bin\Debug\netcoreapp3.1\02.ArrayCreator.dll
+D:\C# coding\C#Advanced\Advanced\Generics-Lab\02.ArrayCreator\bin\Debug\netcoreapp3.1\02.ArrayCreator.pdb
+D:\C# coding\C#Advanced\Advanced\Generics-Lab\02.ArrayCreator\obj\Debug\netcoreapp3.1\02.ArrayCreator.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\Generics-Lab\02.ArrayCreator\obj\Debug\netcoreapp3.1\02.ArrayCreator.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\Generics-Lab\02.ArrayCreator\obj\Debug\netcoreapp3.1\02.ArrayCreator.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\Generics-Lab\02.ArrayCreator\obj\Debug\netcoreapp3.1\02.ArrayCreator.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\Generics-Lab\02.ArrayCreator\obj\Debug\netcoreapp3.1\02.ArrayCreator.dll
+D:\C# coding\C#Advanced\Advanced\Generics-Lab\02.ArrayCreator\obj\Debug\netcoreapp3.1\02.ArrayCreator.pdb
+D:\C# coding\C#Advanced\Advanced\Generics-Lab\02.ArrayCreator\obj\Debug\netcoreapp3.1\02.ArrayCreator.genruntimeconfig.cache
