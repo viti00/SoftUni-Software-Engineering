@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\02.GenericBoxОfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxОfInteger.exe
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\02.GenericBoxОfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxОfInteger.deps.json
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\02.GenericBoxОfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxОfInteger.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\02.GenericBoxОfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxОfInteger.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\02.GenericBoxОfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxОfInteger.dll
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\02.GenericBoxОfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxОfInteger.pdb
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\02.GenericBoxОfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxОfInteger.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\02.GenericBoxОfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxОfInteger.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\02.GenericBoxОfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxОfInteger.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\02.GenericBoxОfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxОfInteger.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\02.GenericBoxОfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxОfInteger.dll
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\02.GenericBoxОfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxОfInteger.pdb
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\02.GenericBoxОfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxОfInteger.genruntimeconfig.cache
