@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\01.GenericBoxОfString\bin\Debug\netcoreapp3.1\01.GenericBoxОfString.exe
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\01.GenericBoxОfString\bin\Debug\netcoreapp3.1\01.GenericBoxОfString.deps.json
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\01.GenericBoxОfString\bin\Debug\netcoreapp3.1\01.GenericBoxОfString.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\01.GenericBoxОfString\bin\Debug\netcoreapp3.1\01.GenericBoxОfString.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\01.GenericBoxОfString\bin\Debug\netcoreapp3.1\01.GenericBoxОfString.dll
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\01.GenericBoxОfString\bin\Debug\netcoreapp3.1\01.GenericBoxОfString.pdb
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\01.GenericBoxОfString\obj\Debug\netcoreapp3.1\01.GenericBoxОfString.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\01.GenericBoxОfString\obj\Debug\netcoreapp3.1\01.GenericBoxОfString.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\01.GenericBoxОfString\obj\Debug\netcoreapp3.1\01.GenericBoxОfString.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\01.GenericBoxОfString\obj\Debug\netcoreapp3.1\01.GenericBoxОfString.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\01.GenericBoxОfString\obj\Debug\netcoreapp3.1\01.GenericBoxОfString.dll
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\01.GenericBoxОfString\obj\Debug\netcoreapp3.1\01.GenericBoxОfString.pdb
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\01.GenericBoxОfString\obj\Debug\netcoreapp3.1\01.GenericBoxОfString.genruntimeconfig.cache
