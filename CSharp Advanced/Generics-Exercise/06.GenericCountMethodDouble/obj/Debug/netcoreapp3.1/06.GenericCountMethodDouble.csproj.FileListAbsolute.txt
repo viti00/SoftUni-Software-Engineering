@@ -1,0 +1,12 @@
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.exe
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.deps.json
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.dll
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.pdb
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.dll
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.pdb
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.genruntimeconfig.cache
