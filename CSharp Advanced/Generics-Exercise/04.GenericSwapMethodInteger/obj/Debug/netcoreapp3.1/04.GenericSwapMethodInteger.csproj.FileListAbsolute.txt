@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\04.GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\04.GenericSwapMethodInteger.exe
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\04.GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\04.GenericSwapMethodInteger.deps.json
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\04.GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\04.GenericSwapMethodInteger.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\04.GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\04.GenericSwapMethodInteger.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\04.GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\04.GenericSwapMethodInteger.dll
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\04.GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\04.GenericSwapMethodInteger.pdb
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\04.GenericSwapMethodInteger.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\04.GenericSwapMethodInteger.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\04.GenericSwapMethodInteger.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\04.GenericSwapMethodInteger.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\04.GenericSwapMethodInteger.dll
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\04.GenericSwapMethodInteger.pdb
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\04.GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\04.GenericSwapMethodInteger.genruntimeconfig.cache
