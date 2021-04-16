@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.exe
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.deps.json
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.dll
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.pdb
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.dll
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.pdb
+D:\C# coding\C#Advanced\Advanced\Generics-Exercise\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.genruntimeconfig.cache
