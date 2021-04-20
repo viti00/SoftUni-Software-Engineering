@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.exe
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.deps.json
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.dll
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.pdb
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.dll
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.pdb
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.genruntimeconfig.cache
