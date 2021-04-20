@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.exe
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.deps.json
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.dll
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.pdb
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.dll
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.pdb
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.genruntimeconfig.cache
