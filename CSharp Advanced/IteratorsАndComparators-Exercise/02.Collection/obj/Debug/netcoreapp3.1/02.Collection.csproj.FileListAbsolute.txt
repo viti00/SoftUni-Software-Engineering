@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.exe
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.deps.json
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.dll
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.pdb
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.dll
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.pdb
+D:\C# coding\C#Advanced\Advanced\IteratorsАndComparators-Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.genruntimeconfig.cache
