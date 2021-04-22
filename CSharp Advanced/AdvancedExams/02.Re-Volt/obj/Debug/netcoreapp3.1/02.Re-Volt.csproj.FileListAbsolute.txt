@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Re-Volt\bin\Debug\netcoreapp3.1\02.Re-Volt.exe
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Re-Volt\bin\Debug\netcoreapp3.1\02.Re-Volt.deps.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Re-Volt\bin\Debug\netcoreapp3.1\02.Re-Volt.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Re-Volt\bin\Debug\netcoreapp3.1\02.Re-Volt.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Re-Volt\bin\Debug\netcoreapp3.1\02.Re-Volt.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Re-Volt\bin\Debug\netcoreapp3.1\02.Re-Volt.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Re-Volt\obj\Debug\netcoreapp3.1\02.Re-Volt.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Re-Volt\obj\Debug\netcoreapp3.1\02.Re-Volt.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Re-Volt\obj\Debug\netcoreapp3.1\02.Re-Volt.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Re-Volt\obj\Debug\netcoreapp3.1\02.Re-Volt.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Re-Volt\obj\Debug\netcoreapp3.1\02.Re-Volt.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Re-Volt\obj\Debug\netcoreapp3.1\02.Re-Volt.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Re-Volt\obj\Debug\netcoreapp3.1\02.Re-Volt.genruntimeconfig.cache
