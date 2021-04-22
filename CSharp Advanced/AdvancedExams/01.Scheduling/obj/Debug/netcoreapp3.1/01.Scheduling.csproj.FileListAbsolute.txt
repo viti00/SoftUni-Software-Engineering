@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.exe
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.deps.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.genruntimeconfig.cache
