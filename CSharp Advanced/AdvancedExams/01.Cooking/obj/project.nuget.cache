@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hOwclqBIPd7Lnrj7JRRyLbl0s7bReKAw7o9sZPw2Sz2O8sFi1R3dyXvcs1jIoMGGI86W3A4n06ORvc4CALdZZw==",
+  "success": true,
+  "projectFilePath": "D:\\C# coding\\C#Advanced\\Advanced\\AdvancedExams\\01.Cooking\\01.Cooking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

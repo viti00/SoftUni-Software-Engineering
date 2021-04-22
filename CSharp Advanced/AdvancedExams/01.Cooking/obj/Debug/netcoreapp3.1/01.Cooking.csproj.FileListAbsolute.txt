@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Cooking\bin\Debug\netcoreapp3.1\01.Cooking.exe
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Cooking\bin\Debug\netcoreapp3.1\01.Cooking.deps.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Cooking\bin\Debug\netcoreapp3.1\01.Cooking.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Cooking\bin\Debug\netcoreapp3.1\01.Cooking.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Cooking\bin\Debug\netcoreapp3.1\01.Cooking.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Cooking\bin\Debug\netcoreapp3.1\01.Cooking.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Cooking\obj\Debug\netcoreapp3.1\01.Cooking.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Cooking\obj\Debug\netcoreapp3.1\01.Cooking.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Cooking\obj\Debug\netcoreapp3.1\01.Cooking.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Cooking\obj\Debug\netcoreapp3.1\01.Cooking.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Cooking\obj\Debug\netcoreapp3.1\01.Cooking.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Cooking\obj\Debug\netcoreapp3.1\01.Cooking.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Cooking\obj\Debug\netcoreapp3.1\01.Cooking.genruntimeconfig.cache
