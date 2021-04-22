@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.exe
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.deps.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.genruntimeconfig.cache
