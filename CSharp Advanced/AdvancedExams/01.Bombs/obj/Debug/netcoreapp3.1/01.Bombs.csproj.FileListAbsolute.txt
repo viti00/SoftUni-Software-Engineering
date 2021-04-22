@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Bombs\bin\Debug\netcoreapp3.1\01.Bombs.exe
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Bombs\bin\Debug\netcoreapp3.1\01.Bombs.deps.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Bombs\bin\Debug\netcoreapp3.1\01.Bombs.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Bombs\bin\Debug\netcoreapp3.1\01.Bombs.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Bombs\bin\Debug\netcoreapp3.1\01.Bombs.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Bombs\bin\Debug\netcoreapp3.1\01.Bombs.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Bombs\obj\Debug\netcoreapp3.1\01.Bombs.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Bombs\obj\Debug\netcoreapp3.1\01.Bombs.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Bombs\obj\Debug\netcoreapp3.1\01.Bombs.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Bombs\obj\Debug\netcoreapp3.1\01.Bombs.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Bombs\obj\Debug\netcoreapp3.1\01.Bombs.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Bombs\obj\Debug\netcoreapp3.1\01.Bombs.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\01.Bombs\obj\Debug\netcoreapp3.1\01.Bombs.genruntimeconfig.cache
