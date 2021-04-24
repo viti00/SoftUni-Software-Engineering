@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.exe
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.deps.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.genruntimeconfig.cache
