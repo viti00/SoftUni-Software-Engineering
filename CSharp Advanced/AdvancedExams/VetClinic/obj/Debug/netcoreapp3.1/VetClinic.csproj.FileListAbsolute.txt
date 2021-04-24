@@ -1,0 +1,12 @@
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.exe
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.deps.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.genruntimeconfig.cache
