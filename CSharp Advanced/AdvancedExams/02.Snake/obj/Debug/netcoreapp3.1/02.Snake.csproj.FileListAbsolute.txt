@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.exe
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.deps.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.genruntimeconfig.cache
