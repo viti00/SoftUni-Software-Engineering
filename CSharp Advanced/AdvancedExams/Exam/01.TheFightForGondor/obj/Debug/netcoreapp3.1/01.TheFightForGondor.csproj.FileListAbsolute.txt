@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\01.TheFightForGondor\bin\Debug\netcoreapp3.1\01.TheFightForGondor.exe
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\01.TheFightForGondor\bin\Debug\netcoreapp3.1\01.TheFightForGondor.deps.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\01.TheFightForGondor\bin\Debug\netcoreapp3.1\01.TheFightForGondor.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\01.TheFightForGondor\bin\Debug\netcoreapp3.1\01.TheFightForGondor.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\01.TheFightForGondor\bin\Debug\netcoreapp3.1\01.TheFightForGondor.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\01.TheFightForGondor\bin\Debug\netcoreapp3.1\01.TheFightForGondor.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\01.TheFightForGondor\obj\Debug\netcoreapp3.1\01.TheFightForGondor.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\01.TheFightForGondor\obj\Debug\netcoreapp3.1\01.TheFightForGondor.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\01.TheFightForGondor\obj\Debug\netcoreapp3.1\01.TheFightForGondor.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\01.TheFightForGondor\obj\Debug\netcoreapp3.1\01.TheFightForGondor.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\01.TheFightForGondor\obj\Debug\netcoreapp3.1\01.TheFightForGondor.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\01.TheFightForGondor\obj\Debug\netcoreapp3.1\01.TheFightForGondor.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\01.TheFightForGondor\obj\Debug\netcoreapp3.1\01.TheFightForGondor.genruntimeconfig.cache

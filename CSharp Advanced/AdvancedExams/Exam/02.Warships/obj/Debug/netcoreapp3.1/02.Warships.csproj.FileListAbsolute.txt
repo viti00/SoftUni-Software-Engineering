@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\02.Warships\bin\Debug\netcoreapp3.1\02.Warships.exe
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\02.Warships\bin\Debug\netcoreapp3.1\02.Warships.deps.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\02.Warships\bin\Debug\netcoreapp3.1\02.Warships.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\02.Warships\bin\Debug\netcoreapp3.1\02.Warships.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\02.Warships\bin\Debug\netcoreapp3.1\02.Warships.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\02.Warships\bin\Debug\netcoreapp3.1\02.Warships.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\02.Warships\obj\Debug\netcoreapp3.1\02.Warships.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\02.Warships\obj\Debug\netcoreapp3.1\02.Warships.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\02.Warships\obj\Debug\netcoreapp3.1\02.Warships.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\02.Warships\obj\Debug\netcoreapp3.1\02.Warships.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\02.Warships\obj\Debug\netcoreapp3.1\02.Warships.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\02.Warships\obj\Debug\netcoreapp3.1\02.Warships.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\02.Warships\obj\Debug\netcoreapp3.1\02.Warships.genruntimeconfig.cache

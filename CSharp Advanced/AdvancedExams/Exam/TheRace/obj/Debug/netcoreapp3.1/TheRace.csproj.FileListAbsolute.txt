@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\TheRace\obj\Debug\netcoreapp3.1\TheRace.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\TheRace\bin\Debug\netcoreapp3.1\TheRace.exe
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\TheRace\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\TheRace\bin\Debug\netcoreapp3.1\TheRace.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Exam\TheRace\obj\Debug\netcoreapp3.1\TheRace.genruntimeconfig.cache
