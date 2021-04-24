@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Guild\bin\Debug\netcoreapp3.1\Guild.exe
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Guild\bin\Debug\netcoreapp3.1\Guild.deps.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Guild\bin\Debug\netcoreapp3.1\Guild.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Guild\bin\Debug\netcoreapp3.1\Guild.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Guild\bin\Debug\netcoreapp3.1\Guild.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Guild\bin\Debug\netcoreapp3.1\Guild.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Guild\obj\Debug\netcoreapp3.1\Guild.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Guild\obj\Debug\netcoreapp3.1\Guild.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Guild\obj\Debug\netcoreapp3.1\Guild.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Guild\obj\Debug\netcoreapp3.1\Guild.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Guild\obj\Debug\netcoreapp3.1\Guild.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Guild\obj\Debug\netcoreapp3.1\Guild.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\Guild\obj\Debug\netcoreapp3.1\Guild.genruntimeconfig.cache
