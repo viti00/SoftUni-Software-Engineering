@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.exe
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.deps.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Selling\bin\Debug\netcoreapp3.1\02.Selling.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\02.Selling\obj\Debug\netcoreapp3.1\02.Selling.genruntimeconfig.cache
