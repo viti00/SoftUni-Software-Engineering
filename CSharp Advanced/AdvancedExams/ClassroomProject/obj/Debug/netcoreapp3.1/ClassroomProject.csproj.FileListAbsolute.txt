@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.exe
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.deps.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfo.cs
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.dll
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.pdb
+D:\C# coding\C#Advanced\Advanced\AdvancedExams\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject.genruntimeconfig.cache
