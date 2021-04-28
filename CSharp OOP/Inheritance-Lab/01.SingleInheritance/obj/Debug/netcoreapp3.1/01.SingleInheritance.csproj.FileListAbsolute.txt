@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\OOP\Inheritance-Lab\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.exe
+D:\C# coding\C#Advanced\OOP\Inheritance-Lab\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.deps.json
+D:\C# coding\C#Advanced\OOP\Inheritance-Lab\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.runtimeconfig.json
+D:\C# coding\C#Advanced\OOP\Inheritance-Lab\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\OOP\Inheritance-Lab\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.dll
+D:\C# coding\C#Advanced\OOP\Inheritance-Lab\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.pdb
+D:\C# coding\C#Advanced\OOP\Inheritance-Lab\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\OOP\Inheritance-Lab\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\OOP\Inheritance-Lab\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\OOP\Inheritance-Lab\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.AssemblyInfo.cs
+D:\C# coding\C#Advanced\OOP\Inheritance-Lab\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.dll
+D:\C# coding\C#Advanced\OOP\Inheritance-Lab\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.pdb
+D:\C# coding\C#Advanced\OOP\Inheritance-Lab\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.genruntimeconfig.cache
