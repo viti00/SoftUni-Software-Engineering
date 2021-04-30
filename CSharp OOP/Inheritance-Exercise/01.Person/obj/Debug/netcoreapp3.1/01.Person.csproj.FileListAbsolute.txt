@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\OOP\Inheritance-Exercise\01.Person\bin\Debug\netcoreapp3.1\01.Person.exe
+D:\C# coding\C#Advanced\OOP\Inheritance-Exercise\01.Person\bin\Debug\netcoreapp3.1\01.Person.deps.json
+D:\C# coding\C#Advanced\OOP\Inheritance-Exercise\01.Person\bin\Debug\netcoreapp3.1\01.Person.runtimeconfig.json
+D:\C# coding\C#Advanced\OOP\Inheritance-Exercise\01.Person\bin\Debug\netcoreapp3.1\01.Person.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\OOP\Inheritance-Exercise\01.Person\bin\Debug\netcoreapp3.1\01.Person.dll
+D:\C# coding\C#Advanced\OOP\Inheritance-Exercise\01.Person\bin\Debug\netcoreapp3.1\01.Person.pdb
+D:\C# coding\C#Advanced\OOP\Inheritance-Exercise\01.Person\obj\Debug\netcoreapp3.1\01.Person.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\OOP\Inheritance-Exercise\01.Person\obj\Debug\netcoreapp3.1\01.Person.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\OOP\Inheritance-Exercise\01.Person\obj\Debug\netcoreapp3.1\01.Person.AssemblyInfo.cs
+D:\C# coding\C#Advanced\OOP\Inheritance-Exercise\01.Person\obj\Debug\netcoreapp3.1\01.Person.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\OOP\Inheritance-Exercise\01.Person\obj\Debug\netcoreapp3.1\01.Person.dll
+D:\C# coding\C#Advanced\OOP\Inheritance-Exercise\01.Person\obj\Debug\netcoreapp3.1\01.Person.pdb
+D:\C# coding\C#Advanced\OOP\Inheritance-Exercise\01.Person\obj\Debug\netcoreapp3.1\01.Person.genruntimeconfig.cache
