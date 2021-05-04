@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\OOP\Encapsulation-Lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.exe
+D:\C# coding\C#Advanced\OOP\Encapsulation-Lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.deps.json
+D:\C# coding\C#Advanced\OOP\Encapsulation-Lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.runtimeconfig.json
+D:\C# coding\C#Advanced\OOP\Encapsulation-Lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\OOP\Encapsulation-Lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.dll
+D:\C# coding\C#Advanced\OOP\Encapsulation-Lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.pdb
+D:\C# coding\C#Advanced\OOP\Encapsulation-Lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\OOP\Encapsulation-Lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.AssemblyInfo.cs
+D:\C# coding\C#Advanced\OOP\Encapsulation-Lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\OOP\Encapsulation-Lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.dll
+D:\C# coding\C#Advanced\OOP\Encapsulation-Lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.pdb
+D:\C# coding\C#Advanced\OOP\Encapsulation-Lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.genruntimeconfig.cache
+D:\C# coding\C#Advanced\OOP\Encapsulation-Lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.csprojAssemblyReference.cache
