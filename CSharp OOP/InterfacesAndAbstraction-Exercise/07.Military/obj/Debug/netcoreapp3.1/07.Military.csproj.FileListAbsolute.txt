@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\07.Military\obj\Debug\netcoreapp3.1\07.Military.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\07.Military\obj\Debug\netcoreapp3.1\07.Military.AssemblyInfo.cs
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\07.Military\obj\Debug\netcoreapp3.1\07.Military.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\07.Military\bin\Debug\netcoreapp3.1\07.Military.exe
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\07.Military\bin\Debug\netcoreapp3.1\07.Military.deps.json
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\07.Military\bin\Debug\netcoreapp3.1\07.Military.runtimeconfig.json
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\07.Military\bin\Debug\netcoreapp3.1\07.Military.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\07.Military\bin\Debug\netcoreapp3.1\07.Military.dll
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\07.Military\bin\Debug\netcoreapp3.1\07.Military.pdb
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\07.Military\obj\Debug\netcoreapp3.1\07.Military.dll
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\07.Military\obj\Debug\netcoreapp3.1\07.Military.pdb
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\07.Military\obj\Debug\netcoreapp3.1\07.Military.genruntimeconfig.cache
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\07.Military\obj\Debug\netcoreapp3.1\07.Military.csprojAssemblyReference.cache
