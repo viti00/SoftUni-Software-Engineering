@@ -1,0 +1,12 @@
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\bin\Debug\netcoreapp3.1\02.MultipleImplementation.exe
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\bin\Debug\netcoreapp3.1\02.MultipleImplementation.deps.json
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\bin\Debug\netcoreapp3.1\02.MultipleImplementation.runtimeconfig.json
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\bin\Debug\netcoreapp3.1\02.MultipleImplementation.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\bin\Debug\netcoreapp3.1\02.MultipleImplementation.dll
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\bin\Debug\netcoreapp3.1\02.MultipleImplementation.pdb
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.AssemblyInfo.cs
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.dll
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.pdb
+D:\C# coding\C#Advanced\OOP\InterfacesAndAbstraction-Exercise\02.MultipleImplementation\obj\Debug\netcoreapp3.1\02.MultipleImplementation.genruntimeconfig.cache
