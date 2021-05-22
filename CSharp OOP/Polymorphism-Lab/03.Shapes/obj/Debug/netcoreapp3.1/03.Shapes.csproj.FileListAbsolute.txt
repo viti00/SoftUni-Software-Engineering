@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\OOP\Polymorphism-Lab\03.Shapes\bin\Debug\netcoreapp3.1\03.Shapes.exe
+D:\C# coding\C#Advanced\OOP\Polymorphism-Lab\03.Shapes\bin\Debug\netcoreapp3.1\03.Shapes.deps.json
+D:\C# coding\C#Advanced\OOP\Polymorphism-Lab\03.Shapes\bin\Debug\netcoreapp3.1\03.Shapes.runtimeconfig.json
+D:\C# coding\C#Advanced\OOP\Polymorphism-Lab\03.Shapes\bin\Debug\netcoreapp3.1\03.Shapes.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\OOP\Polymorphism-Lab\03.Shapes\bin\Debug\netcoreapp3.1\03.Shapes.dll
+D:\C# coding\C#Advanced\OOP\Polymorphism-Lab\03.Shapes\bin\Debug\netcoreapp3.1\03.Shapes.pdb
+D:\C# coding\C#Advanced\OOP\Polymorphism-Lab\03.Shapes\obj\Debug\netcoreapp3.1\03.Shapes.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\OOP\Polymorphism-Lab\03.Shapes\obj\Debug\netcoreapp3.1\03.Shapes.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\OOP\Polymorphism-Lab\03.Shapes\obj\Debug\netcoreapp3.1\03.Shapes.AssemblyInfo.cs
+D:\C# coding\C#Advanced\OOP\Polymorphism-Lab\03.Shapes\obj\Debug\netcoreapp3.1\03.Shapes.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\OOP\Polymorphism-Lab\03.Shapes\obj\Debug\netcoreapp3.1\03.Shapes.dll
+D:\C# coding\C#Advanced\OOP\Polymorphism-Lab\03.Shapes\obj\Debug\netcoreapp3.1\03.Shapes.pdb
+D:\C# coding\C#Advanced\OOP\Polymorphism-Lab\03.Shapes\obj\Debug\netcoreapp3.1\03.Shapes.genruntimeconfig.cache
