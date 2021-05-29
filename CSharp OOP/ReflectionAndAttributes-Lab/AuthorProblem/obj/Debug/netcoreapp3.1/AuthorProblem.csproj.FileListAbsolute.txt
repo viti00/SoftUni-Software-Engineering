@@ -1,0 +1,12 @@
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.exe
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.deps.json
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.json
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.dll
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.pdb
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfo.cs
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.dll
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.pdb
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.genruntimeconfig.cache
