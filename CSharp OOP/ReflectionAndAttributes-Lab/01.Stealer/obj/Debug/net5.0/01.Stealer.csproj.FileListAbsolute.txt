@@ -1,0 +1,16 @@
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\01.Stealer\bin\Debug\net5.0\01.Stealer.exe
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\01.Stealer\bin\Debug\net5.0\01.Stealer.deps.json
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\01.Stealer\bin\Debug\net5.0\01.Stealer.runtimeconfig.json
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\01.Stealer\bin\Debug\net5.0\01.Stealer.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\01.Stealer\bin\Debug\net5.0\01.Stealer.dll
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\01.Stealer\bin\Debug\net5.0\ref\01.Stealer.dll
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\01.Stealer\bin\Debug\net5.0\01.Stealer.pdb
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\01.Stealer\obj\Debug\net5.0\01.Stealer.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\01.Stealer\obj\Debug\net5.0\01.Stealer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\01.Stealer\obj\Debug\net5.0\01.Stealer.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\01.Stealer\obj\Debug\net5.0\01.Stealer.AssemblyInfo.cs
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\01.Stealer\obj\Debug\net5.0\01.Stealer.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\01.Stealer\obj\Debug\net5.0\01.Stealer.dll
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\01.Stealer\obj\Debug\net5.0\ref\01.Stealer.dll
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\01.Stealer\obj\Debug\net5.0\01.Stealer.pdb
+D:\C# coding\C#Advanced\OOP\ReflectionAndAttributes-Lab\01.Stealer\obj\Debug\net5.0\01.Stealer.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MqDTiMPhLlzxxVmbWIu63tFP3ZJFLjPb0g3khht/9VwoAa8kN60jsO+mJ0AQ6YdzHmfUsr4z0Akv9kb6zvNvHw==",
+  "success": true,
+  "projectFilePath": "D:\\C# coding\\C#Advanced\\OOP\\ReflectionAndAttributes-Lab\\01.Stealer\\01.Stealer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
