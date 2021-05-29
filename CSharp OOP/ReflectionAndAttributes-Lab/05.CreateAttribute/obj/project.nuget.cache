@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ObT4Q1/88aJDp3r5PLPS9Wvy0hMuc+BIX4014rCAroY+4eMkv3RJYfYkw0HiKdxXEcU/T+AM1FwI4i3qi3r24g==",
+  "success": true,
+  "projectFilePath": "D:\\C# coding\\C#Advanced\\OOP\\ReflectionAndAttributes-Lab\\05.CreateAttribute\\05.CreateAttribute.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
