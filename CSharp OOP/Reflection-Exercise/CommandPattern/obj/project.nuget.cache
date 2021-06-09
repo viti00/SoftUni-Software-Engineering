@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3FCFzfeO9yBXqZD/q2P0KravstdbZT+UU1PvbXgFJ1TNFGXkvH2Ab4KGIctIlBIX/TU6iUCdoDnZ24f3PJyRlg==",
+  "success": true,
+  "projectFilePath": "D:\\C# coding\\C#Advanced\\OOP\\Reflection-Exercise\\CommandPattern\\CommandPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
