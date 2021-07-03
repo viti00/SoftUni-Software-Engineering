@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GjY/EF95KGiOyvF4AsDWwyPO5oGddTKkzcY8eTtegyY5gUN9pBsSjyYB9YPAcyOQApuIVg/X6o6X1z6/p4Q38g==",
+  "success": true,
+  "projectFilePath": "D:\\C# coding\\C#Advanced\\OOP\\UnitTest-Exercise\\FightingArena\\FightingArena.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
