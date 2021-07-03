@@ -1,0 +1,9 @@
+D:\C# coding\C#Advanced\OOP\UnitTest-Exercise\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+D:\C# coding\C#Advanced\OOP\UnitTest-Exercise\Database\bin\Debug\netcoreapp3.1\Database.dll
+D:\C# coding\C#Advanced\OOP\UnitTest-Exercise\Database\bin\Debug\netcoreapp3.1\Database.pdb
+D:\C# coding\C#Advanced\OOP\UnitTest-Exercise\Database\obj\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\OOP\UnitTest-Exercise\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\OOP\UnitTest-Exercise\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+D:\C# coding\C#Advanced\OOP\UnitTest-Exercise\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\OOP\UnitTest-Exercise\Database\obj\Debug\netcoreapp3.1\Database.dll
+D:\C# coding\C#Advanced\OOP\UnitTest-Exercise\Database\obj\Debug\netcoreapp3.1\Database.pdb
