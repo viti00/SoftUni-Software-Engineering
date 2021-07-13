@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B0r49tiKuoIvn4sN1+LbymvZd2e+P89G2DGrUA0KFJxv+xn/dmCN45BlhJ5XThswCQ+tCyy2F+MTo6gYCXn9tg==",
+  "success": true,
+  "projectFilePath": "D:\\C# coding\\C#Advanced\\OOP\\Exams\\exam1\\Exam-Skeleton\\EasterRaces\\EasterRaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

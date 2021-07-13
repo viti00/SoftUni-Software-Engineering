@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\OOP\Exams\exam1\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\OOP\Exams\exam1\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\OOP\Exams\exam1\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfo.cs
+D:\C# coding\C#Advanced\OOP\Exams\exam1\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\OOP\Exams\exam1\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.exe
+D:\C# coding\C#Advanced\OOP\Exams\exam1\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.deps.json
+D:\C# coding\C#Advanced\OOP\Exams\exam1\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.json
+D:\C# coding\C#Advanced\OOP\Exams\exam1\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\OOP\Exams\exam1\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.dll
+D:\C# coding\C#Advanced\OOP\Exams\exam1\Exam-Skeleton\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.pdb
+D:\C# coding\C#Advanced\OOP\Exams\exam1\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.dll
+D:\C# coding\C#Advanced\OOP\Exams\exam1\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.pdb
+D:\C# coding\C#Advanced\OOP\Exams\exam1\Exam-Skeleton\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.genruntimeconfig.cache
