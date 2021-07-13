@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zjk0ZKP839IwtA6I/8Vklyb52ii4hg2fR0c2sd3MqHjMODliF7NLpsn5xqs9W5zy53pripbFYKfH5Sa212xQ8A==",
+  "success": true,
+  "projectFilePath": "D:\\C# coding\\C#Advanced\\OOP\\Exams\\exam1\\UnitTests-Skeleton\\TheRace\\TheRace.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
