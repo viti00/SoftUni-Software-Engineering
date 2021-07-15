@@ -1,0 +1,13 @@
+D:\C# coding\C#Advanced\OOP\Exams\exam2\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+D:\C# coding\C#Advanced\OOP\Exams\exam2\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+D:\C# coding\C#Advanced\OOP\Exams\exam2\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+D:\C# coding\C#Advanced\OOP\Exams\exam2\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+D:\C# coding\C#Advanced\OOP\Exams\exam2\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+D:\C# coding\C#Advanced\OOP\Exams\exam2\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+D:\C# coding\C#Advanced\OOP\Exams\exam2\Bakery\obj\Debug\netcoreapp3.1\Bakery.csprojAssemblyReference.cache
+D:\C# coding\C#Advanced\OOP\Exams\exam2\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+D:\C# coding\C#Advanced\OOP\Exams\exam2\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+D:\C# coding\C#Advanced\OOP\Exams\exam2\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+D:\C# coding\C#Advanced\OOP\Exams\exam2\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+D:\C# coding\C#Advanced\OOP\Exams\exam2\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+D:\C# coding\C#Advanced\OOP\Exams\exam2\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache
