@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3g55s01JQGL7i44olM5STQV9nBz+Of3sbSxqYH55S6AjaIaanvEPHQPz7FYDjQLN03pYxJf87vuzRt//6RHXKA==",
+  "success": true,
+  "projectFilePath": "D:\\C# coding\\C#Advanced\\OOP\\Exams\\exam 3\\FestivalManager\\FestivalManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Charov PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
