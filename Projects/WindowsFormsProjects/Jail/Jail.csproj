@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C06686EF-C39C-4938-AE00-9F833BF727E9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Jail</RootNamespace>
+    <AssemblyName>Jail</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ExportConstant.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="basic forms\frmCells.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="basic forms\frmCells.Designer.cs">
+      <DependentUpon>frmCells.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JailDataSet.cs">
+      <DependentUpon>JailDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="list forms\frmCellsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="list forms\frmCellsList.Designer.cs">
+      <DependentUpon>frmCellsList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="basic forms\frmIsolator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="basic forms\frmIsolator.Designer.cs">
+      <DependentUpon>frmIsolator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="list forms\frmIsolatorList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="list forms\frmIsolatorList.Designer.cs">
+      <DependentUpon>frmIsolatorList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="list forms\frmMailList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="list forms\frmMailList.Designer.cs">
+      <DependentUpon>frmMailList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="basic forms\frmMails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="basic forms\frmMails.Designer.cs">
+      <DependentUpon>frmMails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="basic forms\frmOfficers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="basic forms\frmOfficers.Designer.cs">
+      <DependentUpon>frmOfficers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="list forms\frmOfficersList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="list forms\frmOfficersList.Designer.cs">
+      <DependentUpon>frmOfficersList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="basic forms\frmPrisoners.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="basic forms\frmPrisoners.Designer.cs">
+      <DependentUpon>frmPrisoners.cs</DependentUpon>
+    </Compile>
+    <Compile Include="list forms\frmPrisonersList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="list forms\frmPrisonersList.Designer.cs">
+      <DependentUpon>frmPrisonersList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="basic forms\frmSectors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="basic forms\frmSectors.Designer.cs">
+      <DependentUpon>frmSectors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="list forms\frmSectorsList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="list forms\frmSectorsList.Designer.cs">
+      <DependentUpon>frmSectorsList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JailDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>JailDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="master details forms\frmOfficersSector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="master details forms\frmOfficersSector.Designer.cs">
+      <DependentUpon>frmOfficersSector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="master details forms\frmPrisonerIsolator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="master details forms\frmPrisonerIsolator.Designer.cs">
+      <DependentUpon>frmPrisonerIsolator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="master details forms\frmPrisonersMails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="master details forms\frmPrisonersMails.Designer.cs">
+      <DependentUpon>frmPrisonersMails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="report forms\frmCellsReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report forms\frmCellsReport.Designer.cs">
+      <DependentUpon>frmCellsReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report forms\frmIsolatorReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report forms\frmIsolatorReport.Designer.cs">
+      <DependentUpon>frmIsolatorReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report forms\frmMailsReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report forms\frmMailsReport.Designer.cs">
+      <DependentUpon>frmMailsReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report forms\frmOfficersReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report forms\frmOfficersReport.Designer.cs">
+      <DependentUpon>frmOfficersReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report forms\frmPrisonersReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report forms\frmPrisonersReport.Designer.cs">
+      <DependentUpon>frmPrisonersReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report forms\frmSectorsReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report forms\frmSectorsReport.Designer.cs">
+      <DependentUpon>frmSectorsReport.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="basic forms\frmCells.resx">
+      <DependentUpon>frmCells.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="list forms\frmCellsList.resx">
+      <DependentUpon>frmCellsList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="basic forms\frmIsolator.resx">
+      <DependentUpon>frmIsolator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="list forms\frmIsolatorList.resx">
+      <DependentUpon>frmIsolatorList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="list forms\frmMailList.resx">
+      <DependentUpon>frmMailList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="basic forms\frmMails.resx">
+      <DependentUpon>frmMails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="basic forms\frmOfficers.resx">
+      <DependentUpon>frmOfficers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="list forms\frmOfficersList.resx">
+      <DependentUpon>frmOfficersList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="basic forms\frmPrisoners.resx">
+      <DependentUpon>frmPrisoners.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="list forms\frmPrisonersList.resx">
+      <DependentUpon>frmPrisonersList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="basic forms\frmSectors.resx">
+      <DependentUpon>frmSectors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="list forms\frmSectorsList.resx">
+      <DependentUpon>frmSectorsList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="master details forms\frmOfficersSector.resx">
+      <DependentUpon>frmOfficersSector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="master details forms\frmPrisonerIsolator.resx">
+      <DependentUpon>frmPrisonerIsolator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="master details forms\frmPrisonersMails.resx">
+      <DependentUpon>frmPrisonersMails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="report forms\frmCellsReport.resx">
+      <DependentUpon>frmCellsReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report forms\frmIsolatorReport.resx">
+      <DependentUpon>frmIsolatorReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report forms\frmMailsReport.resx">
+      <DependentUpon>frmMailsReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report forms\frmOfficersReport.resx">
+      <DependentUpon>frmOfficersReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report forms\frmPrisonersReport.resx">
+      <DependentUpon>frmPrisonersReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report forms\frmSectorsReport.resx">
+      <DependentUpon>frmSectorsReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="JailDataSet.xsc">
+      <DependentUpon>JailDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="JailDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>JailDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="JailDataSet.xss">
+      <DependentUpon>JailDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
