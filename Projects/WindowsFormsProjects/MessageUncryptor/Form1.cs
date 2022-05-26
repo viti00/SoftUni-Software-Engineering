@@ -55,7 +55,11 @@ namespace MessageUncryptor
 
         private void Copy_Click(object sender, EventArgs e)
         {
-            Clipboard.SetText(UncryptedMessageTextBox.Text);
+            if(UncryptedMessageTextBox.Text.Length > 0)
+            {
+                Clipboard.SetText(UncryptedMessageTextBox.Text);
+            }
+            
         }
 
         private void Clear_Click(object sender, EventArgs e)

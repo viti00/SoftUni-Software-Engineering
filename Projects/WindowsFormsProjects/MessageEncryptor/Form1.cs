@@ -53,7 +53,10 @@ namespace MessageEncryptor
 
         private void Copy_Click(object sender, EventArgs e)
         {
-            Clipboard.SetText(EncryptedMessageTextBox.Text);
+            if(EncryptedMessageTextBox.Text.Length > 0)
+            {
+                Clipboard.SetText(EncryptedMessageTextBox.Text);
+            }
         }
 
         private void Clear_Click(object sender, EventArgs e)
