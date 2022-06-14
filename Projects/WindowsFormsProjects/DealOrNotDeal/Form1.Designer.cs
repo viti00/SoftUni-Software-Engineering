@@ -1123,7 +1123,7 @@ namespace DealOrNotDeal
             // 
             this.newGame.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.newGame.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-            this.newGame.Location = new System.Drawing.Point(1677, 41);
+            this.newGame.Location = new System.Drawing.Point(3, 6);
             this.newGame.Name = "newGame";
             this.newGame.Size = new System.Drawing.Size(120, 55);
             this.newGame.TabIndex = 81;

@@ -54,7 +54,7 @@ namespace DealOrNotDeal
             {
                 double offer = calculateBankOffer();
 
-                bankOfferLabel.Text = $"Вие си тръгвате с {offer:f2} лв. Във вашата кутия има {Program.yourBox.FirstOrDefault().Value:f2} лв.";
+                bankOfferLabel.Text = $"Вие си тръгвате с {offer:f0} лв. Във вашата кутия има {Program.yourBox.FirstOrDefault().Value:f2} лв.";
                 List<Control> allControls = this.Controls.OfType<Control>().ToList();
                 makeControlsEnabledFalse(allControls);
                 answerYes.Visible = false;
@@ -319,7 +319,7 @@ namespace DealOrNotDeal
             openBoxLabel.Visible = false;
             if (num == 1)
             {
-                bankOfferLabel.Text = $"Офертата на банката е ${offer:f2} лв.";
+                bankOfferLabel.Text = $"Офертата на банката е ${offer:f0} лв.";
             }
             else
             {
