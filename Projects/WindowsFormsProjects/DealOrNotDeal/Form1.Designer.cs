@@ -1036,7 +1036,7 @@ namespace DealOrNotDeal
             this.startBtn.TabIndex = 73;
             this.startBtn.Text = "Start";
             this.startBtn.UseVisualStyleBackColor = false;
-            this.startBtn.Click += new System.EventHandler(this.button1_Click);
+            this.startBtn.Click += new System.EventHandler(this.startBtn_Click);
             // 
             // pickLabel
             // 

@@ -18,7 +18,7 @@ namespace DealOrNotDeal
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void startBtn_Click(object sender, EventArgs e)
         {
             List<Control> all = this.Controls.OfType<Control>().ToList();
             List<Control> allBoxes = all.Where(x => x is PictureBox).ToList();
@@ -49,6 +49,8 @@ namespace DealOrNotDeal
                 answerYes.Visible = false;
                 answerNo.Visible = false;
                 bankOfferLabel.Visible = false;
+                List<Control> allControls = this.Controls.OfType<Control>().ToList();
+                makeControlsEnabledTrue(allControls);
             }
             else
             {
