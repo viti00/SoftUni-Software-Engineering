@@ -8,6 +8,7 @@ namespace DealOrNotDeal
 {
     static class Program
     {
+
         public static int count = 0;
         public static Dictionary<int, double> boxesData = new Dictionary<int, double>();
         public static List<double> prices = new List<double>();
