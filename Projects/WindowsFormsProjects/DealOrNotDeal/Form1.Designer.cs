@@ -108,9 +108,6 @@ namespace DealOrNotDeal
             this.gameLabel = new System.Windows.Forms.Label();
             this.myBoxLabel = new System.Windows.Forms.Label();
             this.openBoxLabel = new System.Windows.Forms.Label();
-            this.bankOfferLabel = new System.Windows.Forms.Label();
-            this.answerYes = new System.Windows.Forms.Button();
-            this.answerNo = new System.Windows.Forms.Button();
             this.newGame = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -1042,7 +1039,7 @@ namespace DealOrNotDeal
             // 
             this.pickLabel.AutoSize = true;
             this.pickLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
-            this.pickLabel.Location = new System.Drawing.Point(811, 9);
+            this.pickLabel.Location = new System.Drawing.Point(808, 102);
             this.pickLabel.Name = "pickLabel";
             this.pickLabel.Size = new System.Drawing.Size(398, 39);
             this.pickLabel.TabIndex = 74;
@@ -1082,43 +1079,6 @@ namespace DealOrNotDeal
             this.openBoxLabel.Text = "otvorihte";
             this.openBoxLabel.Visible = false;
             // 
-            // bankOfferLabel
-            // 
-            this.bankOfferLabel.AutoSize = true;
-            this.bankOfferLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
-            this.bankOfferLabel.Location = new System.Drawing.Point(781, 59);
-            this.bankOfferLabel.Name = "bankOfferLabel";
-            this.bankOfferLabel.Size = new System.Drawing.Size(112, 39);
-            this.bankOfferLabel.TabIndex = 78;
-            this.bankOfferLabel.Text = "ofertat";
-            this.bankOfferLabel.Visible = false;
-            // 
-            // answerYes
-            // 
-            this.answerYes.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.answerYes.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-            this.answerYes.Location = new System.Drawing.Point(841, 118);
-            this.answerYes.Name = "answerYes";
-            this.answerYes.Size = new System.Drawing.Size(100, 45);
-            this.answerYes.TabIndex = 79;
-            this.answerYes.Text = "Приеми";
-            this.answerYes.UseVisualStyleBackColor = false;
-            this.answerYes.Visible = false;
-            this.answerYes.Click += new System.EventHandler(this.answerYes_Click);
-            // 
-            // answerNo
-            // 
-            this.answerNo.BackColor = System.Drawing.Color.Red;
-            this.answerNo.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-            this.answerNo.Location = new System.Drawing.Point(970, 118);
-            this.answerNo.Name = "answerNo";
-            this.answerNo.Size = new System.Drawing.Size(100, 45);
-            this.answerNo.TabIndex = 80;
-            this.answerNo.Text = "Откажи";
-            this.answerNo.UseVisualStyleBackColor = false;
-            this.answerNo.Visible = false;
-            this.answerNo.Click += new System.EventHandler(this.answerNo_Click);
-            // 
             // newGame
             // 
             this.newGame.BackColor = System.Drawing.SystemColors.ButtonShadow;
@@ -1139,9 +1099,6 @@ namespace DealOrNotDeal
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(1782, 1055);
             this.Controls.Add(this.newGame);
-            this.Controls.Add(this.answerNo);
-            this.Controls.Add(this.answerYes);
-            this.Controls.Add(this.bankOfferLabel);
             this.Controls.Add(this.openBoxLabel);
             this.Controls.Add(this.myBoxLabel);
             this.Controls.Add(this.gameLabel);
@@ -1328,9 +1285,6 @@ namespace DealOrNotDeal
         private System.Windows.Forms.Label gameLabel;
         private System.Windows.Forms.Label myBoxLabel;
         private System.Windows.Forms.Label openBoxLabel;
-        private System.Windows.Forms.Label bankOfferLabel;
-        private System.Windows.Forms.Button answerYes;
-        private System.Windows.Forms.Button answerNo;
         private System.Windows.Forms.Button newGame;
     }
 }

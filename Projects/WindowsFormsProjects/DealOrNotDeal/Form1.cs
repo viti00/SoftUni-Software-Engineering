@@ -1,23 +1,31 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Globalization;
 using System.Linq;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace DealOrNotDeal
 {
     public partial class Form1 : Form
     {
+        List<Control> allControlls;
+        List<Control> allPictureBoxes;
+        List<Control> allTextBoxes;
+        int count = 0;
+        Dictionary<int, double> boxesData = new Dictionary<int, double>();
+        List<double> prices = new List<double>();
+        Dictionary<int, double> boxes = new Dictionary<int, double>();
+        int boxNumeric = 1;
+        Dictionary<int, double> yourBox = new Dictionary<int, double>();
+        int offersCount = 0;
+        string message = "";
+        string caption = "Оферта на банката";
 
         public Form1()
         {
-
             Thread.CurrentThread.CurrentCulture = CultureInfo.CreateSpecificCulture("en-GB");
             InitializeComponent();
 
@@ -25,64 +33,48 @@ namespace DealOrNotDeal
 
         private void startBtn_Click(object sender, EventArgs e)
         {
-            List<Control> all = this.Controls.OfType<Control>().ToList();
-            List<Control> allBoxes = all.Where(x => x is PictureBox).ToList();
+            allControlls = this.Controls.OfType<Control>().ToList();
+            allPictureBoxes = allControlls.Where(x => x is PictureBox).ToList();
+            allTextBoxes = this.Controls.OfType<Control>().Where(x => x is TextBox).ToList();
 
-            addClickEvent(allBoxes);
+            AddClickEvent(allPictureBoxes);
 
-            makeElementsVisible(all);
+            ShowOrHideElements(allControlls);
 
-            startBtn.Visible = false;
-            pickLabel.Visible = true;
-            myBoxLabel.Visible = false;
-            gameLabel.Visible = false;
-            openBoxLabel.Visible = false;
-            bankOfferLabel.Visible = false;
-            answerYes.Visible = false;
-            answerNo.Visible = false;
-
-            makeBoxesData(Program.boxesData);
-            makeBoxes(Program.boxes, Program.boxNumeric, Program.boxesData);
-            makePrices(Program.prices);
+            MakeBoxesData(boxesData);
+            MakeBoxes(boxes, boxNumeric, boxesData);
+            MakePrices(prices);
         }
 
-        private void answerYes_Click(object sender, EventArgs e)
+        private void AnswerYes()
         {
-            if (bankOfferLabel.Text == "Смяна на кутиите")
+            if (message == "Смяна на кутиите")
             {
                 pickLabel.Visible = true;
-                answerYes.Visible = false;
-                answerNo.Visible = false;
-                bankOfferLabel.Visible = false;
-                List<Control> allControls = this.Controls.OfType<Control>().ToList();
-                makeControlsEnabledTrue(allControls);
             }
             else
             {
-                double offer = calculateBankOffer();
+                double offer = CalculateBankOffer();
+                var finalMessage = $"Вие си тръгвате с {offer:f0} лв. Във вашата кутия има {yourBox.FirstOrDefault().Value:f2} лв.";
+                MessageBox.Show(finalMessage);
 
-                bankOfferLabel.Text = $"Вие си тръгвате с {offer:f0} лв. Във вашата кутия има {Program.yourBox.FirstOrDefault().Value:f2} лв.";
-                List<Control> allControls = this.Controls.OfType<Control>().ToList();
-                makeControlsEnabledFalse(allControls);
-                answerYes.Visible = false;
-                answerNo.Visible = false;
+                MakeControlsEnabledFalse(allControlls);
+
                 newGame.Enabled = true;
             }
 
         }
 
-        private void answerNo_Click(object sender, EventArgs e)
+        private void AnswerNo()
         {
-            List<Control> allBoxes = this.Controls.OfType<Control>().Where(x => x is PictureBox).ToList();
-            makeControlsEnabledTrue(allBoxes);
-            int boxToOffer = calculateBoxToOffer();
+            int boxToOffer = CalculateBoxToOffer();
+
             gameLabel.Text = $"Кутии до офертата на банката: {boxToOffer}";
             gameLabel.Visible = true;
-            bankOfferLabel.Visible = false;
-            answerYes.Visible = false;
-            answerNo.Visible = false;
+
             openBoxLabel.Visible = true;
-            bankOfferLabel.Text = "";
+
+            message = "";
         }
 
         private void newGame_Click(object sender, EventArgs e)
@@ -90,7 +82,7 @@ namespace DealOrNotDeal
             Application.Restart();
         }
 
-        private static void makeControlsEnabledFalse(List<Control> controls)
+        private void MakeControlsEnabledFalse(List<Control> controls)
         {
             foreach (var item in controls)
             {
@@ -98,34 +90,26 @@ namespace DealOrNotDeal
             }
         }
 
-        private static void makeControlsEnabledTrue(List<Control> controls)
-        {
-            foreach (var item in controls)
-            {
-                item.Enabled = true;
-            }
-        }
-
-        private void addClickEvent(List<Control> allBoxes)
+        private void AddClickEvent(List<Control> allBoxes)
         {
             foreach (var item in allBoxes)
             {
-                item.Click += onClick;
+                item.Click += OnClick;
             }
         }
 
-        private void onClick(object sender, EventArgs e)
+        private void OnClick(object sender, EventArgs e)
         {
             PictureBox box = sender as PictureBox;
-            int yourBoxKey = Program.yourBox.FirstOrDefault().Key;
-            Control pictureBox = this.Controls.OfType<Control>().Where(x => x is PictureBox).FirstOrDefault(x => x.Name == $"pictureBox{yourBoxKey}");
-            List<Control> textBoxes = this.Controls.OfType<Control>().Where(x => x is TextBox).ToList();
-            List<Control> allBoxes = this.Controls.OfType<Control>().Where(x => x is PictureBox).ToList();
-            playGame(box, myBoxLabel, pickLabel, gameLabel, openBoxLabel,
-                textBoxes, bankOfferLabel, answerYes, answerNo, pictureBox, allBoxes);
+
+            int yourBoxKey = yourBox.FirstOrDefault().Key;
+
+            Control pictureBox = allControlls.Where(x => x is PictureBox).FirstOrDefault(x => x.Name == $"pictureBox{yourBoxKey}");
+
+            PlayGame(box, pictureBox);
         }
 
-        private static void makePrices(List<double> prices)
+        private void MakePrices(List<double> prices)
         {
             prices.Add(0.01);
             prices.Add(0.1);
@@ -153,7 +137,7 @@ namespace DealOrNotDeal
             prices.Add(100000);
         }
 
-        private static void makeBoxesData(Dictionary<int, double> boxesData)
+        private void MakeBoxesData(Dictionary<int, double> boxesData)
         {
             boxesData.Add(1, 0.01);
             boxesData.Add(2, 0.1);
@@ -181,12 +165,11 @@ namespace DealOrNotDeal
             boxesData.Add(24, 100000);
         }
 
-        private static void makeBoxes(Dictionary<int, double> boxes, int boxNumeric, Dictionary<int, double> boxesData)
+        private void MakeBoxes(Dictionary<int, double> boxes, int boxNumeric, Dictionary<int, double> boxesData)
         {
             while (boxesData.Count != 0)
             {
-                Random rnd = new Random();
-                int num = rnd.Next(1, 25);
+                int num = Randomizer(1, 25);
                 if (boxesData.ContainsKey(num))
                 {
                     boxes.Add(boxNumeric, boxesData[num]);
@@ -196,189 +179,192 @@ namespace DealOrNotDeal
             }
         }
 
-        private static void makeElementsVisible(List<Control> all)
+        private void ShowOrHideElements(List<Control> all)
         {
             foreach (var item in all)
             {
-                item.Visible = true;
+                if (CheckControlls(item))
+                {
+                    item.Visible = true;
+                }
+                else
+                {
+                    item.Visible = false;
+                }
             }
         }
 
-        private static void playGame(Control pictureBox, Control myBoxLabel,
-            Control pickLabel, Control gameLabel,
-            Control openBoxLabel, List<Control> textBoxes, Control bankOfferLabel,
-            Control answerYes, Control answerNo, Control oldMyBox, List<Control> allBoxes)
+        private void PlayGame(Control clickedBox, Control myOldBox)
         {
+            clickedBox.Visible = false;
 
-            pictureBox.Visible = false;
-            if (bankOfferLabel.Text == "Смяна на кутиите")
+            if (message == "Смяна на кутиите")
             {
-                makeControlsEnabledTrue(allBoxes);
-                oldMyBox.Visible = true;
-                int boxNum = 0;
-                string curr = "";
-                if (pictureBox.Name.Length == 11)
-                {
-                    curr = pictureBox.Name[pictureBox.Name.Length - 1].ToString();
-                    boxNum = Convert.ToInt32(curr);
-                }
-                else
-                {
-                    curr = pictureBox.Name.Substring(pictureBox.Name.Length - 2);
-                    boxNum = Convert.ToInt32(curr);
-                }
+                myOldBox.Visible = true;
 
-                int oldBoxKey = Program.yourBox.FirstOrDefault().Key;
-                double oldBoxValue = Program.yourBox.FirstOrDefault().Value;
-                Program.yourBox.Add(boxNum, Program.boxes[boxNum]);
-                Program.boxes.Remove(boxNum);
-                Program.boxes.Add(oldBoxKey, oldBoxValue);
+                int boxNum = GetBoxNum(clickedBox.Name);
+
+                int oldBoxKey = yourBox.FirstOrDefault().Key;
+                double oldBoxValue = yourBox.FirstOrDefault().Value;
+                yourBox.Remove(oldBoxKey);
+                yourBox.Add(boxNum, boxes[boxNum]);
+                boxes.Remove(boxNum);
+                boxes.Add(oldBoxKey, oldBoxValue);
 
                 pickLabel.Visible = false;
                 myBoxLabel.Text = $"Вашата кутия е: {boxNum}";
                 myBoxLabel.Visible = true;
 
-                int boxToOffer = calculateBoxToOffer();
+                int boxToOffer = CalculateBoxToOffer();
                 gameLabel.Text = $"Кутии до офертата на банката: {boxToOffer}";
                 gameLabel.Visible = true;
-                bankOfferLabel.Text = "";
+                message = "";
             }
-            else if (Program.yourBox.Count == 0)
+            else if (yourBox.Count == 0)
             {
-                int boxNum = 0;
-                string curr = "";
-                if (pictureBox.Name.Length == 11)
-                {
-                    curr = pictureBox.Name[pictureBox.Name.Length - 1].ToString();
-                    boxNum = Convert.ToInt32(curr);
-                }
-                else
-                {
-                    curr = pictureBox.Name.Substring(pictureBox.Name.Length - 2);
-                    boxNum = Convert.ToInt32(curr);
-                }
+                int boxNum = GetBoxNum(clickedBox.Name);
 
-                Program.yourBox.Add(boxNum, Program.boxes[boxNum]);
-                Program.boxes.Remove(boxNum);
+                yourBox.Add(boxNum, boxes[boxNum]);
+                boxes.Remove(boxNum);
                 pickLabel.Visible = false;
                 myBoxLabel.Text = $"Вашата кутия е: {boxNum}";
                 myBoxLabel.Visible = true;
 
-                int boxToOffer = calculateBoxToOffer();
+                int boxToOffer = CalculateBoxToOffer();
                 gameLabel.Text = $"Кутии до офертата на банката: {boxToOffer}";
                 gameLabel.Visible = true;
             }
             else
             {
-                Program.count++;
-                int boxToOffer = calculateBoxToOffer();
-                boxOpen(pictureBox, boxToOffer, gameLabel, openBoxLabel, textBoxes, bankOfferLabel, answerYes, answerNo, allBoxes);
+                count++;
+                int boxToOffer = CalculateBoxToOffer();
+                BoxOpen(clickedBox, boxToOffer);
 
             }
 
         }
 
-        private static void boxOpen(Control pictureBox, int boxToOffer, Control gameLabel,
-            Control openBoxLabel, List<Control> textBoxes, Control bankOfferLabel,
-            Control answerYes, Control answerNo, List<Control> allBoxes)
+        private void BoxOpen(Control clickedBox, int boxToOffer)
         {
             gameLabel.Text = $"Кутии до офертата на банката: {boxToOffer}";
-            int boxNum = 0;
-            string curr = "";
-            if (pictureBox.Name.Length == 11)
-            {
-                curr = pictureBox.Name[pictureBox.Name.Length - 1].ToString();
-                boxNum = Convert.ToInt32(curr);
-            }
-            else
-            {
-                curr = pictureBox.Name.Substring(pictureBox.Name.Length - 2);
-                boxNum = Convert.ToInt32(curr);
-            }
+            int boxNum = GetBoxNum(clickedBox.Name);
 
-            openBoxLabel.Text = $"В кутия {boxNum} имаше {Program.boxes[boxNum]:f2} лв.";
+            openBoxLabel.Text = $"В кутия {boxNum} имаше {boxes[boxNum]:f2} лв.";
             openBoxLabel.Visible = true;
-            Control textBox = textBoxes.FirstOrDefault(x => Convert.ToDouble(x.Text) == Program.boxes[boxNum]);
-            Program.prices.Remove(Convert.ToDouble(textBox.Text));
-            textBox.BackColor = Color.Gray;
-            Program.boxes.Remove(boxNum);
+            Control textBox = allTextBoxes.FirstOrDefault(x => Convert.ToDouble(x.Text) == boxes[boxNum]);
 
-            if (Program.boxes.Count == 0)
+            prices.Remove(Convert.ToDouble(textBox.Text));
+
+            textBox.BackColor = Color.Gray;
+
+            boxes.Remove(boxNum);
+
+            if (boxes.Count == 0)
             {
-                bankOfferLabel.Text = $"Честито вие спечелихте {Program.yourBox.First().Value:f2} лв.";
-                bankOfferLabel.Visible = true;
+                MessageBox.Show($"Честито вие спечелихте {yourBox.First().Value:f2} лв.");
                 openBoxLabel.Visible = false;
             }
             else if (boxToOffer == 0)
             {
-                makeControlsEnabledFalse(allBoxes);
-                Program.offersCount++;
-                bankOffer(bankOfferLabel, answerYes, answerNo, gameLabel, openBoxLabel);
+                offersCount++;
+                BankOffer();
             }
         }
 
-        private static void bankOffer(Control bankOfferLabel, Control answerYes, Control answerNo, Control gameLabel, Control openBoxLabel)
+        private void BankOffer()
         {
-            Random rnd = new Random();
-            int num = rnd.Next(1, 3);
-            double offer = calculateBankOffer();
+            int num = Randomizer(1, 3);
+            double offer = CalculateBankOffer();
+
             gameLabel.Visible = false;
-            openBoxLabel.Visible = false;
+
+
             if (num == 1)
             {
-                bankOfferLabel.Text = $"Офертата на банката е ${offer:f0} лв.";
+                message = $"Офертата на банката е ${offer:f0} лв.";
             }
             else
             {
-                bankOfferLabel.Text = "Смяна на кутиите";
+                message = "Смяна на кутиите";
             }
 
-            bankOfferLabel.Visible = true;
-            answerYes.Visible = true;
-            answerNo.Visible = true;
+            var result = MessageBox.Show(message, caption,
+                                 MessageBoxButtons.YesNo);
+
+            if (result == DialogResult.Yes)
+            {
+                AnswerYes();
+            }
+            else
+            {
+                AnswerNo();
+            }
         }
-       
-        private static int calculateBoxToOffer()
+
+        private int Randomizer(int startNum, int endNum)
+        {
+            Random rnd = new Random();
+            int num = rnd.Next(startNum, endNum);
+
+            return num;
+        }
+
+        private int CalculateBoxToOffer()
         {
             int boxToOffer = 0;
 
 
-            if (Program.count <= 6 && Program.offersCount == 0)
+            if (count <= 6 && offersCount == 0)
             {
-                boxToOffer = 6 - Program.count;
+                boxToOffer = 6 - count;
             }
-            else if (Program.offersCount == 1 && Program.count >= 6 && Program.count <= 11)
+            else if (offersCount == 1 && count >= 6 && count <= 11)
             {
-                boxToOffer = 11 - Program.count;
+                boxToOffer = 11 - count;
             }
-            else if (Program.offersCount == 2 && Program.count >= 11 && Program.count <= 15)
+            else if (offersCount == 2 && count >= 11 && count <= 15)
             {
-                boxToOffer = 15 - Program.count;
+                boxToOffer = 15 - count;
             }
-            else if (Program.offersCount == 3 && Program.count >= 15 && Program.count <= 18)
+            else if (offersCount == 3 && count >= 15 && count <= 18)
             {
-                boxToOffer = 18 - Program.count;
+                boxToOffer = 18 - count;
             }
-            else if (Program.offersCount == 4 && Program.count >= 18 && Program.count <= 21)
+            else if (offersCount == 4 && count >= 18 && count <= 21)
             {
-                boxToOffer = 21 - Program.count;
+                boxToOffer = 21 - count;
             }
-            else if (Program.offersCount == 5 && Program.count >= 21 && Program.count <= 22)
+            else if (offersCount == 5 && count >= 21 && count <= 22)
             {
-                boxToOffer = 22 - Program.count;
+                boxToOffer = 22 - count;
             }
 
             return boxToOffer;
         }
-        
-        private static double calculateBankOffer()
+
+        private double CalculateBankOffer()
         {
-            double minPrice = Program.prices.Min();
-            double maxPrice = Program.prices.Max();
-            double offer = (minPrice + maxPrice) / Program.prices.Count;
+            double minPrice = prices.Min();
+            double maxPrice = prices.Max();
+            double offer = (minPrice + maxPrice) / prices.Count;
 
             return offer;
         }
 
+        private bool CheckControlls(Control controll)
+        {
+            if (controll.Name == "startBtn" || controll.Name == "myBoxLabel"
+                || controll.Name == "gameLabel" || controll.Name == "openBoxLabel")
+            {
+                return false;
+            }
+
+            return true;
+        }
+
+        private int GetBoxNum(string boxName)
+        {
+            return Convert.ToInt32(boxName.Substring(10));
+        }
     }
 }
